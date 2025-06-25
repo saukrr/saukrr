@@ -24,41 +24,6 @@ Jsem programátor se zaměřením na herní modifikace a propojené systémy. Sp
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🎮 Interaktivní terminál
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&color=00FF00&size=25&duration=6000&center=true&vCenter=true&width=800&height=50&lines=Vítej+v+terminálu+saukr+OS+v1.0.0" alt="Terminal Welcome" />
-
-```bash
-$ whoami
-> saukr - Minecraft & MTA Developer
-
-$ cat skills.txt
-> Java, Lua, JavaScript, PHP, HTML/CSS, MySQL, Rust, Ruby
-
-$ ls -la projects/
-> drwxr-xr-x  minecraft/
-> drwxr-xr-x  mta/
-> drwxr-xr-x  web/
-> drwxr-xr-x  discord/
-
-$ cat minecraft/saukr_plugin.info
-> Univerzální plugin pro Minecraft servery
-> - Combat systém s cooldowny
-> - Custom crafting recepty
-> - Admin příkazy a nástroje
-> - Juggernaut event systém
-
-$ cat mta/database_integration.log
-> [INFO] Propojení MTA serveru s databází úspěšné
-> [INFO] Discord bot připojen k databázi
-> [INFO] Webové rozhraní synchronizováno
-> [SUCCESS] Kompletní ekosystém aktivní
-
-$ ./contact.sh
-> Discord: saukr
-> Connecting...
-> Connection established!
-```
 
 ## 📊 GitHub statistiky
 
