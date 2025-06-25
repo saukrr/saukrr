@@ -24,27 +24,6 @@ Jsem programátor se zaměřením na herní modifikace a propojené systémy. Sp
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🎮 Moje projekty
-
-### Minecraft
-- **SaukrPlugin** - Univerzální plugin pro Minecraft servery s pokročilými funkcemi
-- **Combat System** - PvP systém s cooldowny a speciálními schopnostmi
-- **Custom Crafting** - Systém vlastních receptů a itemů
-
-### MTA (Multi Theft Auto)
-- **RolePlay Systém** - Komplexní skripty pro RP servery
-- **Propojený systém** - Integrace MTA serveru s Discord botem a webovým rozhraním
-- **Statistický systém** - Sledování herních statistik, majetku a progrese
-
-### Propojené systémy
-- **MTA-Discord-Web** - Propojený ekosystém umožňující přihlášení přes MTA do Discordu a webu
-- **Statistický portál** - Webové rozhraní zobrazující herní statistiky, majetek a avatary
-- **Databázová integrace** - Propojení všech systémů pomocí centrální databáze
-
-### Webové projekty
-- **Herní dashboard** - Statistiky a správa herních účtů
-- **Systém avatarů** - Možnost přizpůsobení profilů a avatarů
-- **Administrační rozhraní** - Správa uživatelů a herních dat
 
 ## 📊 GitHub statistiky
 
